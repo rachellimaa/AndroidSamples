@@ -1,6 +1,8 @@
 <resources>
-    <string name="app_name">Dice Roller</string>
-    <string name="text_one">1</string>
-    <string name="text_roll">Roll</string>
-    <string name="initial_message">Let\'s Roll</string>
+    <string name="app_name">About me</string>
+    <string name="name">Rachel Lima</string>
+    <string name="yellow_start">yellow star</string>
+    <string name="bio">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi in mi id sapien venenatis consequat ac vel velit. Sed nec varius felis, non commodo dolor. Mauris id vehicula libero. Aliquam non ligula purus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Cras eleifend lorem neque, nec sodales dui tristique at. Curabitur bibendum, lacus non facilisis hendrerit, arcu tortor vehicula urna, eget ultrices risus leo nec orci. Quisque tristique ligula sit amet sem venenatis tempor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In fringilla nulla augue, in tempus justo lacinia vitae. Duis eget commodo magna, sit amet gravida metus. Ut ipsum nunc, rutrum placerat erat quis, venenatis vehicula urna. Sed enim sem, varius nec odio eu, venenatis faucibus risus. Maecenas dapibus aliquam metus, et vehicula elit volutpat at. Donec odio arcu, eleifend ac malesuada suscipit, vulputate molestie nisi. Vivamus pellentesque ligula ut diam dapibus ullamcorper. </string>
+    <string name="whatsnickname">What\'s your nickname?</string>
+    <string name="done">Done</string>
 </resources>

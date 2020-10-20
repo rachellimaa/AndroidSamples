@@ -1,2 +1,3 @@
 include ':app'
+include ':appOne'
 rootProject.name = "Dice Roller"
