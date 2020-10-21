@@ -1,3 +1,4 @@
+include ':ColorMyViews'
 include ':AboutMe'
 include ':DiceRoller'
 rootProject.name = "Dice Roller"
